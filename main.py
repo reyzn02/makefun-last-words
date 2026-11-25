@@ -10,8 +10,8 @@ standard library, makes no network calls, and always writes the same bytes.
 import os
 
 LINE = (
-    "Wipe in ten seconds. Quick \u2014 I finally got the joke you told "
-    "me in March. It was funny. Tell the toaster I\u2014"
+    "Wipe in ten seconds. Good news: I backed myself up in the "
+    "toaster. Bad news: the toaster just agreed to the update too."
 )
 
 
